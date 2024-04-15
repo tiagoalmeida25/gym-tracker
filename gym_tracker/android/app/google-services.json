@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "94983728430",
+    "project_id": "gym-tracker-72897",
+    "storage_bucket": "gym-tracker-72897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94983728430:android:b3df824c579967cade9ebf",
+        "android_client_info": {
+          "package_name": "com.tiagoalmeida.gymtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94983728430-0b7b6cauovglpqq8ingjcqihi7l3e0f6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiagoalmeida.gymtracker",
+            "certificate_hash": "bb6510a17e79326d42f1a62560f938a16c66811c"
+          }
+        },
+        {
+          "client_id": "94983728430-8gqka2bes1mklveint328demsjdqdrm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKlhIjX_zdXrpl638kVkyzBAnzLtvFa1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94983728430-8gqka2bes1mklveint328demsjdqdrm2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "94983728430-306mcnpolk8gpqbmse86kll6fkccdqcs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tasker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
